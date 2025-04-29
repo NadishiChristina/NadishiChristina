@@ -3,11 +3,10 @@
 🎓 I'm currently a **Software Engineering Undergraduate** at  
 **Informatics Institute of Technology (IIT)** affiliated with the **University of Westminster**, UK.
 
-💡 I enjoy exploring emerging technologies and crafting full-stack applications
+😉 Exploring tech, guided by code, to craft impactful applications.
 
 ### What I’m currently up to:
-- Learning MERN Stack
-- Developing a Multi-Election Voting App
+- Learning MERN Stack through the development of a Multi-Election Voting App
 
 ### Connect with me:
 
