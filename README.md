@@ -1,7 +1,5 @@
 ## Hi there, I'm Nadishi 👋👩‍💻
 
---
-
 🎓 I'm currently a **Software Engineering Undergraduate** at  
 **Informatics Institute of Technology (IIT)** affiliated with the **University of Westminster**, UK.
 
